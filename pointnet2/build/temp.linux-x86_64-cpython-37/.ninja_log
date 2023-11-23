@@ -1,0 +1,6 @@
+# ninja log v5
+1	12818	1700223420723739539	/home/zhl/project/Reinforcement Learning/SAPIEN/JointDet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/group_points.o	689aa4e9b0cc805e
+0	12858	1700223420763739056	/home/zhl/project/Reinforcement Learning/SAPIEN/JointDet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/ball_query.o	5a481491587d1a8a
+2	12997	1700223420903737365	/home/zhl/project/Reinforcement Learning/SAPIEN/JointDet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/sampling.o	231900a2062d7b8c
+1	13066	1700223420971736544	/home/zhl/project/Reinforcement Learning/SAPIEN/JointDet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/interpolate.o	da2c3d9cadf0c729
+1	16527	1700223424427694792	/home/zhl/project/Reinforcement Learning/SAPIEN/JointDet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/bindings.o	f9ed701abbd0bb0

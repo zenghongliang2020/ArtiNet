@@ -1,0 +1,1 @@
+from rgb_backbone_module import CNN_Backbone
